@@ -5,9 +5,7 @@
     ◦ If you’re interested in **cloud administration and management**, the **AZ-104** exam is a logical next step. It focuses on validating your ability to implement, manage, and monitor identity in a cloud environment as an Azure Administrator. [This certification covers core Azure services, workloads, security, and governance1](https://www.testpreptraining.com/blog/what-is-the-next-exam-after-az-900-az-104-or-az-204/).
     ◦ The **Azure Administrator** role ensures that Azure resources are available and performing well. As an Azure Administrator, you’ll be responsible for the resources that keep clouds running smoothly.
 
-- [ ] 2. Microsoft Certified: Azure DevOps Engineer Expert (AZ-400):
-
-This certification is specifically designed for professionals pursuing a DevOps role on the Microsoft Azure platform. It covers topics like continuous integration, continuous delivery, and automation of infrastructure.
+- [ ] 2. Microsoft Certified: Azure DevOps Engineer Expert (AZ-400): This certification is specifically designed for professionals pursuing a DevOps role on the Microsoft Azure platform. It covers topics like continuous integration, continuous delivery, and automation of infrastructure.
 
 - [ ] 3. Learn Version Control: Familiarize yourself with version control systems like Git. Understanding how to manage source code and collaborate with others is essential in a DevOps environment.
 
